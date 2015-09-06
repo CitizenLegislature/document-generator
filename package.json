@@ -1,0 +1,16 @@
+{
+  "name": "document-generator",
+  "version": "1.0.0",
+  "description": "document-generator",
+  "main": "app.js",
+  "author": {
+    "name": "jnosek",
+    "email": "jnosek@gmail.com"
+  },
+  "dependencies": {
+    "markdown-pdf": "^5.3.0"
+  },
+   "bin": {
+    "document-generator": "bin.js"
+  }
+}
